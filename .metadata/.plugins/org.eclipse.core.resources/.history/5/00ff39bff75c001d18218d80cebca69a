@@ -1,0 +1,9 @@
+package entities;
+
+public class Course {
+	int id;
+	String name;
+	double price;
+	
+
+}

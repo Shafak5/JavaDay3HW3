@@ -1,0 +1,34 @@
+package business;
+
+import java.util.List;
+
+import core.logging.ILogger;
+import dataAccess.ICourseDao;
+import entities.Course;
+
+public class CourseManager {
+	private ICourseDao iCourseDao;
+	private ILogger[] loggers;
+	private List<Course> courses;
+
+	public CourseManager(ICourseDao iCourseDao, ILogger[] loggers, List<Course> courses) {
+		this.iCourseDao = iCourseDao;
+		this.loggers = loggers;
+		this.courses = courses;
+	}
+	
+	public void add(Course course) {
+		
+		
+//		iCourseDao.add(course);
+//		for(ILogger logger : loggers) {
+//			if (course.getName()) {
+//				
+//			}
+//			logger.log(course.getName() + "eklendi");
+		}
+	}
+	
+	
+
+}

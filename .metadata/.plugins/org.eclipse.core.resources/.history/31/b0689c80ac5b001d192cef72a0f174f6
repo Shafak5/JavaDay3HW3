@@ -1,0 +1,7 @@
+package dataAccess;
+
+import dataAccess.ICategoryDao;
+
+public class JdbcCategoryDao implements ICategoryDao{
+
+}

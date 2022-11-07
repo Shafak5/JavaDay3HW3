@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/business/CourseManager.java=UTF-8
+encoding//src/core/logging/DatabaseLogger.java=UTF-8
+encoding//src/core/logging/FileLogger.java=UTF-8
+encoding//src/core/logging/MailLogger.java=UTF-8

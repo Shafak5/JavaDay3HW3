@@ -1,0 +1,9 @@
+package entities;
+
+public class Instructor {
+	int id;
+	String firstName;
+	String lastName;
+	
+
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="core.logging.DatabaseLogger"/>
+    <fullyQualifiedTypeName name="core.logging.FileLogger"/>
+    <fullyQualifiedTypeName name="core.logging.MailLogger"/>
+    <fullyQualifiedTypeName name="dataAccess.ICourseDao"/>
+    <fullyQualifiedTypeName name="entities.Course"/>
+    <fullyQualifiedTypeName name="business.CourseManager"/>
+    <fullyQualifiedTypeName name="dataAccess.jdbc.JdbcCourseDao"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="dataAccess.ICategoryDao"/>
+    <fullyQualifiedTypeName name="entities.Category"/>
+    <fullyQualifiedTypeName name="dataAccess.IInstructorDao"/>
+    <fullyQualifiedTypeName name="core.logging.ILogger"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="entities.Instructor"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,7 @@
+package dataAccess.hibernate;
+
+import dataAccess.ICourseDao;
+
+public class HibernateCourseDao implements ICourseDao{
+
+}
