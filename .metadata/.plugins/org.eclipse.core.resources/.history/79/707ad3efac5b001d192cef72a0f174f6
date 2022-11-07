@@ -1,5 +1,0 @@
-package core.logging;
-
-public class BaseLogger {
-
-}

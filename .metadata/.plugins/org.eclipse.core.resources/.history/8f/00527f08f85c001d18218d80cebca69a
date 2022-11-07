@@ -1,7 +1,0 @@
-package dataAccess.hibernate;
-
-import dataAccess.IInstructorDao;
-
-public class HibernateInstructorDao implements IInstructorDao{
-
-}

@@ -1,7 +1,0 @@
-package dataAccess.hibernate;
-
-import dataAccess.ICategoryDao;
-
-public class HibernateCategoryDao implements ICategoryDao{
-
-}
